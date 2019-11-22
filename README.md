@@ -11,7 +11,10 @@ This is my first portfolio for my IP. It contains the details about me and the p
 - cd portfolio
 - You can use code . or atom . to open it.
 
-
+## Technologies Used
+- HTML5
+- CSS
+- Git and Github
 
 
 
