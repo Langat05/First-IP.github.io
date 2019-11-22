@@ -1,0 +1,78 @@
+* {
+    margin: 0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+/* styling the nav bar
+*/
+nav{
+    text-align: center; 
+    background-color: darksalmon;
+    height: 60px;
+    position: fixed;
+    width: 100%;
+    padding-top: 10px;
+}
+nav>ul>li {
+    display: inline;
+    margin:30px;
+}
+li a {
+    padding: 20px 20px;
+    text-decoration: none;
+    font-size: 30px;
+
+  }
+a:hover {
+    color:rgb(169, 71, 214);
+    background-color: cyan
+}
+/* nav bar styling ends here*/
+
+/* home page styling starts here*/
+.image {
+    text-align: center;
+    font-size: 40px;
+   background-image: url("https://cdn2.f-cdn.com/contestentries/237716/7312875/5586658e1b1db_thumb900.jpg")
+}
+img{
+    
+        border-radius:50%;
+        margin-top: 80px;
+}
+/*end of the home page styling*/
+
+#about{
+    text-align: center;
+    font-size: 30px;
+}
+
+/*styling of the projects starts here*/
+#projects{
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.projects{
+    text-align: center;
+    font-size: 33px;
+}
+ .btn{
+     padding-left: 1%;
+    border: none;
+     cursor: pointer;
+     font-size: 20px;
+ }
+/* projects styling ends here*/
+
+/*Footer styling starts here*/
+.footer{
+text-align: center;
+background-color: darksalmon;
+font-style: italic;
+font-size: 30px;
+height: 110px;
+}
