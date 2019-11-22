@@ -16,6 +16,11 @@ This is my first portfolio for my IP. It contains the details about me and the p
 - CSS
 - Git and Github
 
+## Acknowledgement
+I would like to acknowledge my Technical Mentors for their guidance they gave me.
+
+
+
 
 
 
