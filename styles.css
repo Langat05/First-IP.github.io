@@ -2,6 +2,7 @@
     margin: 0;
     padding:0;
     box-sizing:border-box;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 img { max-width: 100%; }
@@ -17,15 +18,18 @@ nav{
     width: 100%;
     padding-top: 10px;
 }
+
 nav>ul>li {
     display: inline;
     margin:20px;
 }
+
 li a {
     text-decoration: none;
     font-size: 30px;
 
   }
+
 a:hover {
     color:rgb(169, 71, 214);
     background-color: cyan
@@ -38,6 +42,7 @@ a:hover {
     font-size: 40px;
    background-image: url("https://cdn2.f-cdn.com/contestentries/237716/7312875/5586658e1b1db_thumb900.jpg")
 }
+
 img{
     
         border-radius:50%;
@@ -48,6 +53,11 @@ img{
 #about{
     text-align: center;
     font-size: 30px;
+}
+
+span{
+    color: rgb(6, 77, 30);
+    font-style: italic;
 }
 
 /*styling of the projects starts here*/
@@ -89,6 +99,7 @@ margin: 0;
     #primary { width:67%; }
     #secondary { width:30%; margin-left:3%;}  
 }
+
 @media screen and (max-width: 768px) {
     #primary { width:100%; }
     #secondary { width:100%; margin:0; border:none; }
