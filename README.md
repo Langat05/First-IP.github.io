@@ -1,5 +1,8 @@
 # My Portfolio
 
+## Author
+- Langat K. Justus
+
 
 
 
